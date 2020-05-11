@@ -13,7 +13,7 @@ class ProjectCard extends React.Component {
 						<CardTitle>{this.props.projectTitle}</CardTitle>
 						<CardSubtitle>{this.props.projectSubtitle}</CardSubtitle>
 						<CardText>{this.props.projectDescription}</CardText>
-						<Button>Press Me</Button>
+						{/* <Button>Press Me</Button> */}
 					</CardBody>
 			</Card>
 		)

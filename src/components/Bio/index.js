@@ -42,6 +42,17 @@ class Bio extends React.Component {
 						</div>
 					</div>
 				</div>
+				<div className="row">
+					<div className="col-sm-4">
+						LINK TO LINKEDIN PROFILE GOES HERE
+					</div>
+					<div className="col-sm-4">
+						LINK TO GITHUB PAGE GOES HERE
+					</div>
+					<div className="col-sm-4">
+						THIRD LINK GOES HERE MAYBE???
+					</div>
+				</div>
 			</div>
 		)
 	}
