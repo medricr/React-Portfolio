@@ -28,12 +28,12 @@ class NavBar extends React.Component {
 							<DropdownMenu right>
 								<DropdownItem>
 									<NavLink>
-										<Link className="nav-link" to='/gallery'>Projects</Link>
+										<Link className="nav-link" to='/projects'>Projects</Link>
 									</NavLink>
 								</DropdownItem>
 								<DropdownItem>
 									<NavLink>
-										<Link className="nav-link" to='/bio'>Bio</Link>
+										<Link className="nav-link" to='/contact'>Contact</Link>
 									</NavLink>
 								</DropdownItem>
 							</DropdownMenu>
